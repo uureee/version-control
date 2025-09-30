@@ -4,6 +4,5 @@
 
 * Nabeel, Messina’s tiramisu, ricotta cheesecake
 * Nabeel-again, Pistachio Gelato, Custard tart
-* Andrew, Caramel, Vanilla Slice
 * Name 
 * NEW COMMIT
